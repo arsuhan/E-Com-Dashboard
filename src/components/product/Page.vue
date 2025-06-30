@@ -36,7 +36,7 @@ onMounted(async () => {
             <ProductCategories />
             <section>
                 <div id="features" class="py-6 px-6 lg:px-20 mt-2 mx-0 lg:mx-20">
-                    <div class="grid grid-cols-12 lg:gap-4 md:gap-4 justify-center">
+                    <div class="grid grid-cols-12 lg:gap-4 md:gap-4 xs:gap-2 justify-center">
                         <div class="col-span-12 text-center lg:mt-20 md:mt-6 mb-6">
                             <div class="text-surface-900 dark:text-surface-0 font-normal mb-2 lg:text-4xl text-3xl">Top Picks for You</div>
                             <span class="text-muted-color lg:text-2xl text-xl">Check out our latest and treding products curated just for you.</span>
